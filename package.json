@@ -15,7 +15,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "sass": "^1.26.5",
-    "ua-parser-js": "^0.7.21"
+    "ua-parser-js": "^0.7.24"
   },
   "devDependencies": {
     "@types/axios": "^0.14.0",
